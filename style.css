@@ -135,8 +135,8 @@ footer{
     }
     .banner{
         width: auto;
-        height: 500px;
-        margin: 20px 0;
+        height: 300px;
+        margin-bottom: 90px;
     }
 }
 @media (min-width: 768px) {
